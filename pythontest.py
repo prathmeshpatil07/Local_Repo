@@ -9,3 +9,4 @@ for char in txt:
 print (rev)
 
 print ("the text is Reversed")
+
